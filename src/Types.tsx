@@ -8,4 +8,5 @@ export type Crypto = {
     low_24h: number;
     name: string;
     symbol: string;
+    owned: number;
   };
